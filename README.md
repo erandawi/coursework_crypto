@@ -104,9 +104,16 @@ streamlit run streamlit_app.py
 
 ## 🖼️ Interface Screenshots
 
-| Affine Cipher Demo                                  | RSA Cipher Demo                               |
-| --------------------------------------------------- | --------------------------------------------- |
-| ![Affine Cipher Screenshot](screenshots/affine.png) | ![RSA Cipher Screenshot](screenshots/rsa.png) |
+| Affine Cipher Demo                                  | 
+| --------------------------------------------------- | 
+| ![Affine Cipher Screenshot](screenshots/affine.png) |
+
+---
+
+| RSA Cipher Demo                               |
+| --------------------------------------------- |
+| ![RSA Cipher Screenshot](screenshots/rsa.png) |
+
 
 > (You can add these screenshots to a `screenshots/` folder.)
 
